@@ -1,0 +1,15 @@
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\bin\Debug\net8.0\Yield.exe
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\bin\Debug\net8.0\Yield.deps.json
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\bin\Debug\net8.0\Yield.runtimeconfig.json
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\bin\Debug\net8.0\Yield.dll
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\bin\Debug\net8.0\Yield.pdb
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\obj\Debug\net8.0\Yield.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\obj\Debug\net8.0\Yield.AssemblyInfoInputs.cache
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\obj\Debug\net8.0\Yield.AssemblyInfo.cs
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\obj\Debug\net8.0\Yield.csproj.CoreCompileInputs.cache
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\obj\Debug\net8.0\Yield.sourcelink.json
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\obj\Debug\net8.0\Yield.dll
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\obj\Debug\net8.0\refint\Yield.dll
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\obj\Debug\net8.0\Yield.pdb
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\obj\Debug\net8.0\Yield.genruntimeconfig.cache
+c:\Users\sakabour\source\repos\FormationCsharp\Yield\obj\Debug\net8.0\ref\Yield.dll
